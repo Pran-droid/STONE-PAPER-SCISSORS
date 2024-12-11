@@ -22,4 +22,4 @@ The code for Stone-Paper-Scissors game by me in C.
   <li>Scissors - Your Index, Middle finger open and rest all closed.</li>
 </ul>
 
-<p>There is a .c-file attached where you can find the code copy </p>
+<p>There is a .c-file attached where you will find an error free code.<br> You can run it on any C compiler and start playing enjoy!</p>
