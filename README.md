@@ -1,8 +1,8 @@
 # STONE x PAPER x SCISSORS
-The code for Stone-Paper-Scissors game by me in C.
+The code for <b>Stone-Paper-Scissors</b> game by me in <b>C</b>.
 <div>So, as you may know the rules.</div> 
 <ul>
-  <li>There are two players</li>
+  <li>There are 2-players</li>
   <li>Each player simultaneously choices either stone, paper or scissors for each turn</li>
   <li>The player earns a point under 3-conditions,
     <ol>
@@ -17,9 +17,10 @@ The code for Stone-Paper-Scissors game by me in C.
 
 <div>These components can be displayed through hand sign,</div>
 <ul>
-  <li>STONE - Make a Fist.</li>
-  <li>Paper - Make a High-five.</li>
-  <li>Scissors - Your Index, Middle finger open and rest all closed.</li>
+  <li><b>STONE</b> - Make a Fist.</li>
+  <li><b>Paper</b> - Make a High-five.</li>
+  <li><b>Scissors</b> - Your Index, Middle finger open and rest all closed.</li>
 </ul>
 
-<p>There is a .c-file attached where you will find an error free code.<br> You can run it on any C compiler and start playing enjoy!</p>
+<p>There is a .c-file attached where you will find an error free code.
+  <br> You can run it on any C compiler and start playing <b>enjoy!</b></p>
