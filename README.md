@@ -23,4 +23,4 @@ The code for <b>Stone-Paper-Scissors</b> game by me in <b>C</b>.
 </ul>
 
 <p>There is a .c-file attached where you will find an error free code.
-  <br> You can run it on any C compiler and start playing. <b>Enjoy!</b></p>
+  <br> You can run it on any C compiler and start playing with your computer. <b>Enjoy!</b></p>
