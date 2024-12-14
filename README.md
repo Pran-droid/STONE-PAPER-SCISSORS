@@ -18,8 +18,8 @@ The code for <b>Stone-Paper-Scissors</b> game by me in <b>C</b>.
 <div>These components can be displayed through hand sign,</div>
 <ul>
   <li><b>STONE</b> - Make a Fist.</li>
-  <li><b>Paper</b> - Make a High-five.</li>
-  <li><b>Scissors</b> - Your Index, Middle finger open and rest all closed.</li>
+  <li><b>PAPER</b> - Make a High-five.</li>
+  <li><b>SCISSORS</b> - Your Index, Middle finger open and rest all closed.</li>
 </ul>
 
 <p>There is a .c-file attached where you will find an error free code.
